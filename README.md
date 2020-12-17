@@ -12,6 +12,8 @@ Project workflow:
 
 Results:
 •	Hotel rating, customer satisfaction rating, number of reviews and hotel capacity influence positively on hotel price.
+
 •	Positive feedbacks related to cleanliness, staff attitudes, on-time service and location near mall and restaurant, free breakfast and parking. 
+
 •	Negative feedbacks regarding to noisy atmosphere and small rooms, delayed services, trash or broken facilities. 
 

@@ -1,5 +1,5 @@
 # Web-Scraping-and-Sentiment-Analysis
-Predict the hotel rate and sentiment analysis The purpose of this project is to uncover the primary hotel guest expectations and the overall feelings guests have towards their hotel stay experience during the COVID-19 Pandemic. In addition, we also fit a linear regression model to predict the hotel price as well as find the factors leading to the that price. By understanding this, hotel companies can refine their current processes and standards. Therefore, hotels will additionally improve their reviews and overall ratings and increase occupancy.
+This is the team project in which my team aims to uncover the primary hotel guest expectations and the overall feelings guests have towards their hotel stay experience during the COVID-19 Pandemic. In addition, we also fit a linear regression model to predict the hotel price as well as find the factors leading to the that price. By understanding this, hotel companies can refine their current processes and standards. Therefore, hotels will additionally improve their reviews and overall ratings and increase occupancy.
 
 The data was collected from and contains data from over 400 hotels in Chicago, Illinois. The Selenium package and XPath Selector were used in Python to access and extract the data.
 
@@ -17,4 +17,8 @@ Results:
 •	Positive feedbacks related to cleanliness, staff attitudes, on-time service and location near mall and restaurant, free breakfast and parking. 
 
 •	Negative feedbacks regarding to noisy atmosphere and small rooms, delayed services, trash or broken facilities. 
+
+My contribution in this project:
+1. Searched and checked quality of reference materials/code and then sent them to team to continuely work on project. 
+2. Took full responsibility for listing features analysis including data collection, cleaning, statistical tests, analysis and modelling. 
 

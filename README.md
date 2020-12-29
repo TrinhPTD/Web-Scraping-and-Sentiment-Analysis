@@ -19,6 +19,6 @@ Results:
 •	Negative feedbacks regarding to noisy atmosphere and small rooms, delayed services, trash or broken facilities. 
 
 My contribution in this project:
-1. Searched and checked quality of reference materials/code and then sent them to team to continuely work on project. 
+1. Searched and checked quality of reference materials/code for web scraping part and then sent them to team to continuely work on project. 
 2. Took full responsibility for listing features analysis including data collection, cleaning, statistical tests, analysis and modelling. 
 
